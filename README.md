@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Cristina (you can call me Cris)
+# Hi there 👋, I'm Cristina 
 
 [Curriculum](./curriculum.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/semikiina/)
 
