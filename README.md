@@ -10,11 +10,11 @@
 - 🎯 Goal for this year: Travel to Japan 🇯🇵
 
 ## 👩🏼‍💻 Experiences
-- September 2025 - current: SWE @[CC] (https://connectedcars.io/)
-- April 2025 - August 2025: Full-stack Engineer @[Replai] (https://www.replai.io/)
-- March 2025 - July 2025: Research Intern @[INESC TEC] (https://www.inesctec.pt/en)
+- September 2025 - current: SWE @[CC](https://connectedcars.io/)
+- April 2025 - August 2025: Full-stack Engineer @[Replai](https://www.replai.io/)
+- March 2025 - July 2025: Research Intern @[INESC TEC](https://www.inesctec.pt/en)
 - September 2022 - August 2024: Full-stack Developer @Freelancer
-- August 2021 - February 2022: SWE Intern @[Ambidata] (https://www.ambidata.com/)
+- August 2021 - February 2022: SWE Intern @[Ambidata](https://www.ambidata.com/)
 
 ## 👩🏼‍🔬 Skills
 <p>
