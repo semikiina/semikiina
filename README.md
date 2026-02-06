@@ -25,7 +25,9 @@
 </p>
 
 ## 👩🏼‍🏫 Education
-- August 2025 - current: Master's in Computer Science at @[Aarhus University](https://international.au.dk/)
+- January 2026 - current: Master's in Computer Science and Engineering at @[DTU](https://dtu.dk/)
+  -  Specialization in **Algorithms and Artificial Intelligence**
+- August 2025 - December 2025: Master's in Computer Science at @[Aarhus University](https://international.au.dk/)
   -  Specialization in **Artificial Intelligence**
   -  **Relevant Coursework**: Data Visualization, Deep Learning for Visual Recognitision, Natural Language Processing
 - September 2022 - July 2025: Bachelor's in Computer Engineering at @[ISEP](https://www.isep.ipp.pt/)
