@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cristina 
 
-[Curriculum](./curriculum.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/semikiina/)
+[Curriculum](./cristina_semikina.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/semikiina/)
 
 ## 💁🏼‍♀️ About Me
 - 💻 I’m a Software Engineer with strong interest in Artificial Intelligence
